@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from app import ml  # db, viz
+from app import ml  
 
 description = """
 <img src="https://img.phonandroid.com/2020/11/spotify-comptes-pirates-mots-passe.jpg"
