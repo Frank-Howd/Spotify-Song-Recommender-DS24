@@ -1,16 +1,27 @@
 # Spotify Song Recommender 
 
-- [Big picture](#big-picture)
-- [Tech stack](#tech-stack)
-- [Getting started](#getting-started)
-- [File structure](#file-structure)
-- [More instructions](#more-instructions)
-- [Deploying to Heroku](#deploying-to-heroku)
-- [Example: Machine learning](#example-machine-learning)
+- [Enter an Artist](#big-picture)
+- [Input a song by Artist](#tech-stack)
+- [Have 10 songs returned based on 15 feature characteristics, including:](#getting-started)
+- [Key](#file-structure)
+- [Tempo](#more-instructions)
+- [Mode](#deploying-to-heroku)
+- [12 more!](#example-machine-learning)
 
 ## Big picture
 
-Here's a template with starter code to deploy an API for your machine learning model and data visualizations.  You're encouraged (but not required) to use this template for your Build Week.
+### The Spotify Song Recommender - Expose Yourself to Great New Music
+
+The Spotify Song Recommender app accepts a song title and artist name, and returns 10 songs with similiar characteristics.
+
+Instructions for use -
+- Click on 'POST' 
+- Click the Try it out button
+- Edit the Request body or any parameters
+- Click the Execute button
+- Scroll down to see the Server response Code & Details
+
+
 
 You can deploy on Heroku in 10 minutes. Here's the template deployed as-is: [https://ds-bw-test.herokuapp.com/](https://ds-bw-test.herokuapp.com/)
 
