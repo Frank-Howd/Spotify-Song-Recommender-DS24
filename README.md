@@ -14,7 +14,7 @@ https://spotify-song-recommender-ds24.herokuapp.com/
 
 ### The Spotify Song Recommender - Expose Yourself to Great New Music
 
-The Spotify Song Recommender app accepts a song title and artist name, and returns 10 songs with similiar characteristics.
+The Spotify Song Recommender app accepts a song title and artist name, and returns 10 songs with similar characteristics.
 
 Instructions for use -
 - Click on 'POST' 
